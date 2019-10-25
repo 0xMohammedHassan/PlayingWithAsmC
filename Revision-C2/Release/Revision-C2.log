@@ -1,0 +1,13 @@
+﻿  main.c
+main.c(51): warning C4033: 'f2' must return a value
+main.c(58): warning C4033: 'p' must return a value
+main.c(57): warning C4778: 'printf' : unterminated format string '%'
+main.c(98): warning C4033: 'comapreAA' must return a value
+main.c(108): warning C4013: 'getch' undefined; assuming extern returning int
+  Generating code
+  2 of 6 functions (33.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Revision-C2.vcxproj -> C:\Users\HP\Documents\Visual Studio 2015\Projects\Revision-C2\Release\Revision-C2.exe
+  Revision-C2.vcxproj -> C:\Users\HP\Documents\Visual Studio 2015\Projects\Revision-C2\Release\Revision-C2.pdb (Full PDB)
